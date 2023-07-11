@@ -40,7 +40,7 @@
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.0",
     "@testing-library/react": "14.0.0",
-    "@types/chrome": "0.0.224",
+    "@types/chrome": "0.0.240",
     "@types/jest": "29.0.3",
     "@types/node": "20.1.5",
     "@types/react": "18.2.6",
